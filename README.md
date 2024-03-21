@@ -1,5 +1,4 @@
 # MOSSAD_SAMSUNG_PF
-
 # Análisis de Delincuencia en República Dominicana
 
 Este proyecto tiene como objetivo analizar datos sobre la delincuencia en República Dominicana utilizando Python y varias bibliotecas, incluyendo pandas, matplotlib y seaborn para el análisis de datos y la visualización.
